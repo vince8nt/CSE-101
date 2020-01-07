@@ -1,0 +1,4 @@
+big integer ADT.
+Has a cosntatnt base that can be set to any power of 10 less than 10^9.
+Is composed of a linked list of longs.
+Uses a modified version of the list ADT from pa1.
