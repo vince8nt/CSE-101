@@ -1,0 +1,4 @@
+first assignment for the class.
+It is a simple linked list adt with a header file.
+Lex.c is a simple program thats shows off some of the features of List.
+List.c and List.h are used (with some modifications) in later class projects.
