@@ -1,0 +1,4 @@
+A graph ADT with depth first search.
+Graphs are represented by an adjacency list.
+Uses the list ADT from pa1.
+Finds the strongly connected components of a graph through using depth first search.
